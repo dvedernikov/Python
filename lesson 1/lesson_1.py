@@ -33,7 +33,7 @@
 # prin t("\\\\\\\\\\")
 # ##
 #
-# print("Hello world", "Text1", "Text2", sep=", ", end=" - ")
+print("Hello world", "Text1", "Text2", sep=", ", end=" - ")
 # print("Hello world")
 # print('test')
 
