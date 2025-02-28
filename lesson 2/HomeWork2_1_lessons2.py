@@ -27,7 +27,7 @@ print(number4)
 numbers = input("Введіть чотиризначне число: ")
 
 # Перевіряємо, що введене значення складається із 4 цифр і є числом
-if numbers.isdigit() and len(numbers) == 4:
+if numbers.isdigit() and len(numbers) == 4: #дякую гуглу за isdigit ))
     numbers = int(numbers)
 
     number1 = numbers // 1000
